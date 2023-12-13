@@ -1,0 +1,59 @@
+{
+  "siswa": [
+    {
+      "id": 1,
+      "nama": "adi feri ismail",
+      "alamat": "wonosobo"
+    },
+    {
+      "id": 2,
+      "nama": "dea",
+      "alamat": "wonosobo"
+    },
+    {
+      "id": 3,
+      "nama": "lufy",
+      "alamat": "wonosobo"
+    },
+    {
+      "id": 4,
+      "nama": "zoro",
+      "alamat": "wonosobo"
+    },
+    {
+      "nama": "baru",
+      "alamat": "baru",
+      "id": 5
+    },
+    {
+      "nama": "baru lagi nih",
+      "alamat": "baru lagi nih",
+      "id": 6
+    },
+    {
+      "nama": "miftakhul",
+      "alamat": "miftakhul",
+      "id": 7
+    },
+    {
+      "nama": "asdasdasd",
+      "alamat": "asdasdasdasd",
+      "id": 8
+    },
+    {
+      "nama": "asdasdasd",
+      "alamat": "asdasdasd",
+      "id": 9
+    },
+    {
+      "nama": "asdasdasd",
+      "alamat": "asdasdasd",
+      "id": 10
+    },
+    {
+      "nama": "asdasda",
+      "alamat": "sdasdasdasd",
+      "id": 11
+    }
+  ]
+}
